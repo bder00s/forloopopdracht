@@ -69,21 +69,16 @@ for (let i = 0; i < 15; i++) {
 // ==========================================
 
 for (let i = 0; i < 10; i++)
-    if (i >= 3) {
+    if (i < 3) {
+        console.log(i); }
+
+else if (i > 3) {
         console.log("> " + i);
 }
-else if (  (i <= 3) ){
-    console.log(i);
-}
 
-else ( (i <= 6) ) {
+else { (i > 5)
     console.log(">> " + i);
-
 }
 
 
-
-
-
-    // console.log(i);
 
