@@ -60,7 +60,7 @@ for (let i = 0; i < squares.length; i++) {
     const volume = squares[i] * squares[i] * squares[i];
     squares[i] = "het volume van " + squares[i] + " is " + volume;
 }
-
+git
 console.log(squares);
 
 
