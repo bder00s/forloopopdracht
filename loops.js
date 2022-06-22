@@ -78,5 +78,5 @@ for (let i = 0; i < 10; i++)
         console.log(">> " + i);
     }
 
-
+//Op de laatste bonusopdracht liep ik helemaal vast?? Is helaas niet gelukt///
 
